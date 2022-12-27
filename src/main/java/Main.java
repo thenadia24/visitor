@@ -7,6 +7,3 @@ public class Main {
         group.apply(10);
     }
 }
-Footer
-        © 2022 GitHub, Inc.
-        Footer navigation
